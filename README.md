@@ -15,5 +15,3 @@ Another second-level header
 This is a line without a line break.
 This is a line with a line break.
 This is the line after the one with a line break. (Lies)
-
-TEST MOD
